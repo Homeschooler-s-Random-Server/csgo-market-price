@@ -1,5 +1,15 @@
 # CS:GO Knife Price Prediction
 
+Currently in active development
+
+## Notes for development
+
+1. Do not commit or push directly to `master`, but create your own branch:
+  `git checkout -b your_branch`
+2. You can then later submit your changes by making a pull request to `master`. We can then peer review the changes.
+
+This is to prevent conflicts and make the workflow smoother.
+
 ## Variable
 - Knife Type (Navaja, Gut, Bayonet, Classic, etc)
 - StatTrak (Yes or Not)
